@@ -12,4 +12,4 @@ export class Proposal {
 }
 
 // Sample proposal
-// 15, 'ABC Company', 'http://google.com', 'Ruby on Rails', 10, 700, 1, 'jo@jojo.com'
+// 90, 'ABC Y', 'http://google.com', 'Ruby on Rails', '10', '700', 1, 'jo@jojo.com')
