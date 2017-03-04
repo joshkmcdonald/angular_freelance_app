@@ -16,21 +16,21 @@ var DocumentsComponent = (function () {
                 description: "description here adfasdf",
                 file_url: "http://google.com",
                 updated_at: "03/02/17",
-                image_url: "http://google.com",
+                image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Polarlicht_2.jpg/1280px-Polarlicht_2.jpg",
             },
             {
                 title: "My Second Doc",
                 description: "description here adfasdf",
                 file_url: "http://google.com",
                 updated_at: "03/02/17",
-                image_url: "http://google.com",
+                image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Polarlicht_2.jpg/1280px-Polarlicht_2.jpg",
             },
             {
                 title: "My Last Doc",
                 description: "description here adfasdf",
                 file_url: "http://google.com",
                 updated_at: "03/02/17",
-                image_url: "http://google.com",
+                image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Polarlicht_2.jpg/1280px-Polarlicht_2.jpg",
             }
         ];
     }
