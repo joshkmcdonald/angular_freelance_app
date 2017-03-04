@@ -9,11 +9,11 @@ import { Proposal } from './proposal';
 })
 export class ProposalShowComponent implements OnInit {
   id: number;
-  routedId: any;
+  routeId: any;
 
   constructor(
     private route: ActivatedRoute
-    ) {}
+  ) {}
 
   ngOnInit(): void {
     this.routeId = this.route.params.subscribe(
